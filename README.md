@@ -6,4 +6,5 @@ vit-based-fsl.ipynb - Implementation of basic Metric-based Few-Shot Learning Cla
 fusion-multimodal-fsl.ipynb - Proposed Model.
 
 Architecture :-
+
 ![Image](https://github.com/user-attachments/assets/996536cb-c512-443c-a923-6a27a9c023eb)
